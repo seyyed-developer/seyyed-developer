@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+
+```javascript
+const me = {
+status : 200 ,
+data : {
+     name : " Seyed Ehsan Darabi",
+     nickName : " </Ravi> ",
+     birthDay : " 2003 October 29 ",
+     skills : " Js , React Js , ... ",
+     university : " Azad - Mashhad ",
+    }
+};
+
+
+```
+
+
+
+
 <!--
 **seyyed-developer/seyyed-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
